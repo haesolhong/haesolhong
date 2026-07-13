@@ -1,16 +1,103 @@
-## Hi there 👋
+# Hi, I'm Haesol 👋
 
-<!--
-**haesolhong/haesolhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Problem-driven. Data-informed. AI-enabled.**
 
-Here are some ideas to get you started:
+Building user-centered financial products through product thinking, data, and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> **From problems to insights.**  
+> **From insights to better products.**
+
+<br>
+
+> **Discover problems.**  
+> **Analyze with data.**  
+> **Build with AI.**
+
+---
+
+# 👤 About
+
+**Background**
+- Consumer Lending Operations (3y 9m)
+
+**Transition**
+- Operations → Product Management
+
+**Goal**
+- Building user-centered financial products through data and AI.
+
+---
+
+# 🎯 Focus
+
+- 📦 Product Thinking
+- 📊 Data Analytics
+- 🤖 AI & Automation
+- 🧠 Knowledge Systems
+
+---
+
+# 📚 Currently Learning
+
+- 🔍 Market Research & User Insights
+- 💡 Problem Definition & Product Discovery
+- 📈 Data-driven Decision Making
+- 🤖 AI-assisted Product Development
+
+---
+
+# 🚀 Current Focus
+
+- 🎮 FDS (Fraud Detection System) Project
+- 📊 Product Analytics
+- 🤖 AI-assisted Product Development
+
+---
+
+# 🛠 Tech Stack
+
+| Area | Stack |
+|------|------|
+| 📦 Product | Figma · Notion · Jira · Confluence |
+| 📊 Data | Python · SQL · Google Colab |
+| 🤖 AI | Claude · ChatGPT · Codex |
+| 🧠 Knowledge | Obsidian · Zotero |
+| 💻 Development | Git · GitHub · VS Code |
+
+---
+
+# 🚀 Project Areas
+
+## 📦 Product Thinking
+
+> Market research & MRDs, product strategy & PRDs, and product discovery.
+
+---
+
+## 📊 Data Analytics
+
+> Data analysis (SQL, Python), dashboards, and business insights.
+
+---
+
+## 🤖 AI & Automation
+
+> AI agents, chatbots, workflow automation, and LLM applications.
+
+---
+
+## 🧠 Knowledge Systems
+
+> Knowledge architecture & management, LLM Wiki, and documentation.
+
+---
+
+# 📫 Connect
+
+- 📝 **Velog**  
+  https://velog.io/@haesolhong
+
+- 💻 **GitHub**  
+  https://github.com/haesolhong
